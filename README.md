@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yeonseoksong
+- 👀 I’m interested in ML/DL, Windows / Android application.
+- 🌱 I’m currently learning C++, C#, Python, R, Kotlin.
