@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @yeonseoksong
-- 👀 I’m interested in ML/DL, Windows / Android application development.
-- 🌱 I’m currently learning C/C++, C#, Python, HTML/CSS, Kotlin.
+- 👀 I’m interested in NLP, Windows / Android application development.
+- 🌱 I’m currently learning C/C++, Python, JS, HTML/CSS, Kotlin.
